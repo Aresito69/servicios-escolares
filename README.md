@@ -21,7 +21,7 @@ Aplicar herramientas y prácticas de administración de proyectos informáticos 
 
 ## Autor
 
-**[ANGEL ARELLANO MARTINEZ]**
+**ANGEL ARELLANO MARTINEZ**
 
 ## Materia
 
